@@ -1,0 +1,68 @@
+/* Add here all your CSS customizations */
+.skewed {
+    position: absolute;
+    top: 30%;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    height: 30%;
+    background: #2c3e50;
+    z-index: 0;
+    transform: skewY(-4deg);
+    transform-origin: top left;
+  }
+  .skewed-2 {
+    position: absolute;
+    top: 60%;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    height: 30%;
+    background: #c6dd41;
+    z-index: 0;
+    transform: skewY(-4deg);
+    transform-origin: top left;
+  }
+ 
+
+  .member-card__full-name {
+    font-size: 1.2em;
+color: #fcfcfd;
+text-transform: uppercase;
+margin: 0;
+font-weight: 700;
+  }
+
+.member-card_name {
+  display: block;
+letter-spacing: .3px;
+}
+
+.member-card__on-loan-badge {
+    display: block;
+    border-top-width: 52px;
+    border-right-width: 52px;
+    display: block;
+    width: 0;
+    height: 0;
+    border-top: 39px solid #f4bc46;
+    border-right: 39px solid transparent;top: 0;
+    content: "";
+
+}
+.badge-text {
+    top: 6px;
+left: -2px;
+width: 35px;
+font-size: 13px;
+line-height: 12px;
+position: absolute;
+text-transform: uppercase;
+transform: rotate(-45deg);
+color: #2f3133;
+font-weight: 700;
+text-align: center;
+white-space: normal;
+}
