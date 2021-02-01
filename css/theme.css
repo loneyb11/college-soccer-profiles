@@ -4235,7 +4235,6 @@ html.side-header-overlay-full-screen #header .header-nav-main nav > ul > li {
 html.side-header-overlay-full-screen #header .header-nav-main nav > ul > li > a {
 	display: inline-block;
 	border: 0;
-	font-size: 28.8px;
 	font-size: 2.2rem;
 	text-transform: none;
 	color: #FFF;
