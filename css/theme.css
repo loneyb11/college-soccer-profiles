@@ -4337,7 +4337,7 @@ html.side-header-overlay-full-screen #header .header-nav-main nav > ul > li.drop
 
 html.side-header-overlay-full-screen #header .header-nav-main nav > ul > li.dropdown.dropdown-mega .dropdown-mega-sub-title {
 	color: #FFF;
-	font-size: 1.2em;
+	font-size: 0.8em;
 }
 
 html.side-header-overlay-full-screen #header .header-nav-main nav > ul > li.dropdown.dropdown-mega .dropdown-mega-sub-nav {
@@ -4404,7 +4404,7 @@ html.side-header-overlay-full-screen.ie #header .header-nav-main nav > ul > li.d
 	}
 
 	html.side-header-overlay-full-screen #header .header-nav-main nav > ul li.dropdown.dropdown-mega .dropdown-mega-sub-title {
-		font-size: 1.2rem;
+		font-size: 0.8rem;
 		text-align: center;
 		margin-bottom: 7px;
 	}
